@@ -1,4 +1,4 @@
- [
+var data = [
   {
     PLAYER: "Aaron Gordon",
     TEAM: "ORL",

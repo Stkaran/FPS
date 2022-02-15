@@ -1,4 +1,4 @@
- var data = [
+var data = [
   {
     player: "Aaron Gordon",
     team: "ORL",
@@ -17238,6 +17238,6 @@
     predictions: "70.0"
   },
   {
-    player: ""
+    PLAYER: ""
   }
 ];
